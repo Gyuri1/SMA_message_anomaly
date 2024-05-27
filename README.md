@@ -17,13 +17,13 @@ Update the contents of the `sma_credentials.py` file with Your specific configur
 
 # How to use:  
 
-The script accepts these parameters:
+The script accepts these parameters:  
   -h, --help            show this help message and exit  
-  -l L                  The limit for one sender [int]  
-  -d D                  The number of days to look back for messages [int] 
-  -s, --status_delivered Filter on status=delivered [optional]
-  -v, --verbose         Enable verbose mode [optional]
-
+  -l L                  The limit for one sender [int]    
+  -d D                  The number of days to look back for messages [int]   
+  -s, --status_delivered Filter on status=delivered [optional]  
+  -v, --verbose         Enable verbose mode [optional]  
+ 
 
 Expected output:
 
