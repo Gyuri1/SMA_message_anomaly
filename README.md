@@ -1,6 +1,6 @@
 # SMA_message_anomaly  
 
-This Python script demonstrates how detect anomaly on Cisco Security Management Appliance (SMA) using message limit.  
+This Python script demonstrates how to detect anomaly on Cisco Security Management Appliance (SMA) using message limit.  
 
 
 # How to install:  
